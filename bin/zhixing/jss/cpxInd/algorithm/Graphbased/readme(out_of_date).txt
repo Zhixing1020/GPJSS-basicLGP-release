@@ -1,0 +1,2 @@
+this Graphbased package is used for validating the variation step size and variation direction of genotype. Its main innovation is the introduction of momentum and its application. However, the results show that focusing on genotypic variation step size and direction is helpless to evolution. So this package is blocked.
+This package is used to validate the trendency of 1.primitive frequency, 2. primitive frequency at different instruction segements, 3. the 1-Norm adjacent matrix
