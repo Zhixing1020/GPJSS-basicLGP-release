@@ -48,7 +48,7 @@ The main project is located in `/src/zhixing/jss/cpxInd`. It contains the follow
 1. Locate the param file `/GPJSS-basicLGP-release/src/zhixing/jss/cpxInd/parameters/simpleLGP-JSS.params`
 
 2. The main class is specified in `ec.Evolve.java`. Run the main class with argument "-file [path of params file]\simpleLGP-JSS.params -p eval.problem.eval-model.sim-models.0.util-level=0.85 -p seed.0=4 -p eval.problem.eval-model.sim-seed=8 -p eval.problem.eval-model.sim-models.0.num-machines=10".
-By this means, most of the parameters are specified by "simpleLGP-JSS.params". Some specific parameters are defined by "*-p xxx*", the same way as any ECJ applications.
+By this means, most of the parameters are specified by "simpleLGP-JSS.params", while some specific parameters are defined by "*-p xxx*", the same way as any ECJ applications.
 
 3. Finally you will get two result files `out.stat` and `outtabular.stat` in the project home directory. 
 The format of `outtabular.stat` is
