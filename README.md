@@ -1,6 +1,6 @@
 # GPJSS-basicLGP-release
  
-This project is developed based on https://github.com/meiyi1986/GPJSS and the pseudo code in [1]. 
+This project is developed based on https://github.com/meiyi1986/GPJSS and the pseudo codes in [1]. 
 
 [1] M. Brameier and W. Banzhaf, Linear Genetic Programming. New York, NY: Springer US, 2007.
 
