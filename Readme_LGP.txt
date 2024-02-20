@@ -4,7 +4,7 @@ This project is developed based on https://github.com/meiyi1986/GPJSS and the ps
 
 ### What is this repository for? ###
 
-* This is a package for algorithms for automatic rule design in Dynamic Job Shop Scheduling (DJSS) using Linear Genetic Programming (GP). Written by Zhixing Huang.
+* This is a package for algorithms for automatic rule design in Dynamic Job Shop Scheduling (DJSS) using Linear Genetic Programming (LGP). Written by Zhixing Huang.
 * The package is based on the Java ECJ package, which is available from https://cs.gmu.edu/~eclab/projects/ecj/.
 * Version 1.0.0
 
